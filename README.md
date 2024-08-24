@@ -69,10 +69,18 @@ What I Did
     Manual Testing: Executed the Lambda function manually to ensure emails were sent successfully.
     Proof of Concept: Captured logs and screenshots showing successful email delivery to the specified email IDs in contacts.csv.
 
-1. Email Template Hosted on GitHub Pages: ![image](https://github.com/user-attachments/assets/efe81d11-e935-44e3-95ce-acd0f1c84b20)
+1. Email Template Hosted on GitHub Pages:
 
-2. SES Verified Identities: ![image](https://github.com/user-attachments/assets/5856d881-0523-48ae-88b8-8409d4a377c0)
+   ![image](https://github.com/user-attachments/assets/efe81d11-e935-44e3-95ce-acd0f1c84b20)
 
-3. Successful Lambda Execution: ![image](https://github.com/user-attachments/assets/1cda56dd-127f-4559-87af-9fba95a3e926)
+2. SES Verified Identities:
 
-4. Emails Received: ![image](https://github.com/user-attachments/assets/f771ee18-51fa-4f04-b56a-c904281023e9)
+   ![image](https://github.com/user-attachments/assets/5856d881-0523-48ae-88b8-8409d4a377c0)
+
+3. Successful Lambda Execution:
+
+   ![image](https://github.com/user-attachments/assets/1cda56dd-127f-4559-87af-9fba95a3e926)
+
+4. Emails Received:
+
+   ![image](https://github.com/user-attachments/assets/f771ee18-51fa-4f04-b56a-c904281023e9)
